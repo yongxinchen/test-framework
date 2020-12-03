@@ -32,7 +32,7 @@ Tips:
 
 我们将上述[仿微博App](https://github.com/dcloudio/test-framework)依次发布到各平台，验证每个框架在各端的兼容性，结果如下：
 
-|平台			| 微信原生| 支付宝原生	|wepy	|mpvue	|taro					|uni-app|chameleon								|Rex|
+|平台			| 微信原生| 支付宝原生	|wepy	|mpvue	|taro					|uni-app|chameleon								|Rax|
 |:-				|:-			|:- |:-		|:-		|:-						|:-		|:-					|:-						|
 |微信小程序		|⭕️		|❌ |⭕️	|⭕️	|⭕️					|⭕️	|⭕️									|⭕️									|
 |支付宝小程序	|❌			|⭕️ |❌		|⭕️	|⭕️					|⭕️	|❌										|⭕️									|
